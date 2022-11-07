@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Nutricionista Laura";
+titulo.textContent = "DR.Laura";
 
 var pacientes = document.querySelectorAll(".paciente");
 
